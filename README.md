@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Nakadi</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-2010&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-2010" /> </p>
 
 - 🔭 I’m currently working at **DXC Technology**
 
-- 🌱 I’m currently learning **Node.js, Express.js, Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS, Redux**
 
-- 🤝 I’m looking for a new role **Software Engineer**
+- 🤝 I’m looking for a new role as **Software Engineer**
 
-- 📫 How to reach me **adityanakadi3@gmail.com**
+- 📫 Reach me at **adityanakadi3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
